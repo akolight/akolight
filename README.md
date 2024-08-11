@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akolight&show_icons=true&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/quacksire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akolight&layout=compact&theme=transparent&hide_border=true&hide=html />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akolight&layout=compact&theme=transparent&hide_border=true&hide=html" />
 </a>
 
 
